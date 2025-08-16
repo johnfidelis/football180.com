@@ -73,6 +73,10 @@
     transition: .5s;
 }
 
+p{
+    font-size: 14px;
+}
+
 .navbar .navbar-nav .nav-link {
     margin-left: 30px;
     padding: 25px 0;
